@@ -1,0 +1,22 @@
+{
+  "name": "axios-resend",
+  "version": "1.0.0",
+  "description": "Resend by axios if failure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/changjiang1510/axios-resend.git"
+  },
+  "author": "GiangBT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/changjiang1510/axios-resend/issues"
+  },
+  "homepage": "https://github.com/changjiang1510/axios-resend#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
